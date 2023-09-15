@@ -1,0 +1,39 @@
+body {text-align: center;}
+.spacedPls {padding-right: 2%; height: 200px; width: 250px;}
+.title {font-size: 30px; font-weight: bold;}
+.teampic {height:fit-content; width: fit-content;}
+.individualpics {height:350px; width:400px; padding-bottom: 5px;}
+.brothers {display: inline-block;}
+.brian {display: inline-block; padding-right: 115px;}
+.steve {display: inline-block;}
+hr {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  border: none;
+  height: 1px;
+  width: 20p;
+  color:whitesmoke;
+  background-color: whitesmoke;
+}
+p {padding-bottom: 0;}
+.portfolios {width: 15%; display: inline-table;}
+.lefty {text-align: left;}
+a:link {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:visited {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:active {
+  text-decoration: none;
+  color: whitesmoke;
+}
